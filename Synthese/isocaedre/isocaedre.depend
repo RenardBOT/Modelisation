@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632490041 source:/home4/ep298479/Documents/S5/Synthese/isocaedre/cube.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+
