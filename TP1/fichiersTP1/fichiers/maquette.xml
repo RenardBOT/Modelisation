@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE formations SYSTEM "maquette.dtd">
 <formations>
   <formation code_etape="7L3INF">
-  <libelle>Licence</libelle>
-  <annee>3</annee>
+    <libelle>Licence</libelle>
+    <annee>3</annee>
     <semestre ID="S5">
       <UE ID="UE31">
         <libelle>Outils pour la synthèse et le traitement d'images</libelle>
@@ -51,6 +52,7 @@
         </matiere>
       </UE>
     </semestre>
+    
     <semestre ID="S6">
       <UE ID="UE33">
         <libelle>Langages formels et compilation</libelle>

@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="ISO-8859-1"?>
-
+<!DOCTYPE oiseaux SYSTEM "oiseaux.dtd">
 
 <oiseaux>
 
@@ -7,10 +7,10 @@
 
 <espece nom="accenteur alpin" image="accenteur.alpin.jfna.0p" >
 	<ordre>Passeriformes</ordre>
-	<famille>Prunellidés</famille>
+	<famille>Prunellidï¿½s</famille>
 <nomScientifique>Prunella collaris</nomScientifique>
 <synonymes>
-	<synonyme>pégot</synonyme>
+	<synonyme>pï¿½got</synonyme>
 	<synonyme>fauvette des alpes</synonyme>
 	<synonyme>accenteur des alpes</synonyme>
 	<synonyme>accenteur montagnar</synonyme>
@@ -19,45 +19,45 @@
 	<synonyme>Sordone (Ital)</synonyme>
 	<synonyme>Acentor alpino (Espa)</synonyme>
 	<synonyme>Alpine Accentor (Angl</synonyme>
-	<synonyme>Alpjärnsparv (Sued)</synonyme>
+	<synonyme>Alpjï¿½rnsparv (Sued)</synonyme>
 	<synonyme>Alpiyskaya Zavirushka (Russ)</synonyme>
 </synonymes>
 	<biometrie>
-		<taille>15 à 18 cm</taille>
+		<taille>15 ï¿½ 18 cm</taille>
 		<envergure>18 cm</envergure>
 		<poids>40 g</poids>
 	</biometrie>
-	<distribution>Espèce présente en France à l'état sauvage.</distribution>
-	<statut>nicheur sédentaire. migrateur. hivernant. Espèce protégée</statut>
+	<distribution>Espï¿½ce prï¿½sente en France ï¿½ l'ï¿½tat sauvage.</distribution>
+	<statut>nicheur sï¿½dentaire. migrateur. hivernant. Espï¿½ce protï¿½gï¿½e</statut>
 </espece>
 
 
 <espece nom="fauvette babillarde" image="fauvette.babillarde.jfna.0p" chant="fauvetteBabillarde">
   <ordre>Passeriformes</ordre>
-  <famille>Sylviidés</famille>
+  <famille>Sylviidï¿½s</famille>
   <nomScientifique>Sylvia curruca</nomScientifique>
   <synonymes>
 	<synonyme>Braamsluiper (Neerl)</synonyme>
-	<synonyme>Klappergrasmücke (Alle)</synonyme>
-	<synonymes>Bigiarella (Ital)</synonyme>
+	<synonyme>Klappergrasmï¿½cke (Alle)</synonyme>
+	<synonyme>Bigiarella (Ital)</synonyme>
 	<synonyme>Curruca zarcerilla (Espa)</synonyme>
 	<synonyme>Lesser Whitethroat (Angl)</synonyme>
-	<synonyme>Ärtsångare (Sued)</synonyme>
+	<synonyme>ï¿½rtsï¿½ngare (Sued)</synonyme>
 	<synonyme>Slavka-melnichek (Russ)</synonyme>
   </synonymes>
 	<biometrie>
-		<taille>13 à 14 cm</taille>
+		<taille>13 ï¿½ 14 cm</taille>
 		<envergure>19 cm</envergure>
-		<poids>10 à 16 g</poids>
+		<poids>10 ï¿½ 16 g</poids>
 		<longevite>7 ans</longevite>
 	</biometrie>
-	<distribution>Espèce présente en France à l'état sauvage.</distribution>
-	<statut>nicheur. migrateur. Espèce protégée</statut>
+	<distribution>Espï¿½ce prï¿½sente en France ï¿½ l'ï¿½tat sauvage.</distribution>
+	<statut>nicheur. migrateur. Espï¿½ce protï¿½gï¿½e</statut>
 </espece>	
 
 <espece nom="accenteur mouchet" image="accenteur.mouchet.jfna.0p">
  	<ordre>Passeriformes</ordre>
-	<famille>Prunellidés</famille>
+	<famille>Prunellidï¿½s</famille>
  	<nomScientifique>Prunella modularis</nomScientifique>
 	<synonymes>
 		<synonyme>freille</synonyme>
@@ -67,84 +67,90 @@
 		<synonyme>Heggemus (Neerl)</synonyme>
 		<synonyme>Heckenbraunelle (Alle)</synonyme>
 		<synonyme>Passera scopaiola (Ital)</synonyme>
-		<synonyme>Acentor común (Espa)</synonyme>
+		<synonyme>Acentor comï¿½n (Espa)</synonyme>
 		<synonyme>Dunnock (Angl)</synonyme>
-		<synonyme>Järnsparv (Sued)</synonyme>
+		<synonyme>Jï¿½rnsparv (Sued)</synonyme>
 		<synonyme>Lesnaya Zavirushka (Russ)</synonyme>
 	</synonymes>
 	<biometrie>
-		<taille>14 à 15 cm</taille>
+		<taille>14 ï¿½ 15 cm</taille>
 		<envergure>21 cm</envergure>
 		<poids>20 g</poids>
 		<longevite>9 ans</longevite>
 	</biometrie>
-	<distribution>Espèce présente en France à l'état sauvage.</distribution>
-	<statut>nicheur sédentaire. migrateur. hivernant. Espèce protégée </statut>
+	<distribution>Espï¿½ce prï¿½sente en France ï¿½ l'ï¿½tat sauvage.</distribution>
+	<statut>nicheur sï¿½dentaire. migrateur. hivernant. Espï¿½ce protï¿½gï¿½e </statut>
 </espece>
 
-<espece nom="aigle botté" image="aigle.botte.hedr.0p">
+<espece nom="aigle bottï¿½" image="aigle.botte.hedr.0p">
  	<ordre>Accipitriformes</ordre>
-	<famille>Accipitridés</famille>
+	<famille>Accipitridï¿½s</famille>
  	<nomScientifique>Hieraaetus pennatus</nomScientifique>
 	<synonymes>
 		<synonyme>Dwergarend (Neerl)</synonyme>
 		<synonyme>Zwergadler (Alle)</synonyme>
 		<synonyme>Aquila minore (Ital)</synonyme>
-		<synonyme>Águila calzada (Espa)</synonyme>
+		<synonyme>ï¿½guila calzada (Espa)</synonyme>
 		<synonyme>Booted Eagle (Angl)</synonyme>
-		<synonyme>Dvärgörn (Sued)</synonyme>
+		<synonyme>Dvï¿½rgï¿½rn (Sued)</synonyme>
 		<synonyme>Oryol-karlik (Russ)</synonyme>
-		<synonyme>Aigle botté</synonyme>
+		<synonyme>Aigle bottï¿½</synonyme>
 	</synonymes>
 	<biometrie>
-		<taille>45 à 50 cm</taille>
-		<envergure>110 à 135 cm</envergure>
-		<poids>Femelle : 850 à 1250 g ; Mâle : 500 à 800 g</poids>
+		<taille>45 ï¿½ 50 cm</taille>
+		<envergure>110 ï¿½ 135 cm</envergure>
+		<poids>Femelle : 850 ï¿½ 1250 g ; Mï¿½le : 500 ï¿½ 800 g</poids>
 	</biometrie>
-	<distribution>Espèce présente en France à l'état sauvage.</distribution>
-	<statut>nicheur rare. migrateur. hivernant occasionnel. Espèce protégée (liste rouge)</statut>
+	<distribution>Espï¿½ce prï¿½sente en France ï¿½ l'ï¿½tat sauvage.</distribution>
+	<statut>nicheur rare. migrateur. hivernant occasionnel. Espï¿½ce protï¿½gï¿½e (liste rouge)</statut>
 </espece>
 
 <espece nom="Sittelle torchepot" image="sittelle.torchepot.hedr.0p" video="sittelle_torchepot_1_hd">
 	<ordre>Passeriformes</ordre>
-	<famille>Sittidés</famille>
+	<famille>Sittidï¿½s</famille>
  	<nomScientifique>Sitta europaea</nomScientifique>
 	<synonymes>
-		<synonyme>pic maçon</synonyme>
+		<synonyme>pic maï¿½on</synonyme>
 		<synonyme>Boomklever (Neerl)</synonyme>
 		<synonyme>Kleiber (Alle)</synonyme>
 		<synonyme>Picchio muratore (Ital)</synonyme>
 		<synonyme>Trepador azul (Espa)</synonyme>
 		<synonyme>Wood Nuthatch</synonyme>
-		<synonyme>Nötväcka (Sued)</synonyme>
+		<synonyme>Nï¿½tvï¿½cka (Sued)</synonyme>
 		<synonyme>Obyknovenny Popolzen (Russ)</synonyme>
 	</synonymes>
 	<biometrie>
 		<taille>14 cm</taille>
-		<poids>19 à 24 g</poids>
+		<poids>19 ï¿½ 24 g</poids>
 		<longevite>9 ans</longevite>
 	</biometrie>
-	<distribution>Espèce présente en France à l'état sauvage.</distribution>
-	<statut>nicheur sédentaire. migrateur. hivernant. Espèce protégée</statut>
+	<distribution>Espï¿½ce prï¿½sente en France ï¿½ l'ï¿½tat sauvage.</distribution>
+	<statut>nicheur sï¿½dentaire. migrateur. hivernant. Espï¿½ce protï¿½gï¿½e</statut>
 </espece>
 
+<espece nom="Tadorne de Belon">
+	<ordre>Anseriformes</ordre>
+	<famille>Anatidï¿½s</famille>
+ 	<nomScientifique>Tadorna tadorna</nomScientifique>
+	<synonymes>
+		<synonyme>Ardent</synonyme>
+		<synonyme>Raga</synonyme>
+		<synonyme>Ringand</synonyme>
+		<synonyme>Ringant</synonyme>
+		<synonyme>Bergeend (Neerl)</synonyme>
+		<synonyme>Volpoca (Ital)</synonyme>
+		<synonyme>Common Shelduck (Angl)</synonyme>
+		<synonyme>Brandente (Alle)</synonyme>
+	</synonymes>
+	<biometrie>
+		<taille>58 ï¿½ 71 cm</taille>
+		<envergure>110 ï¿½ 113 cm</envergure>
+		<poids>1100 ï¿½ 1400 g</poids>
+		<longevite>16 ans</longevite>
+	</biometrie>
+	<distribution>Espï¿½ce prï¿½sente en France ï¿½ l'ï¿½tat sauvage.</distribution>
+	<statut>Nicheur. migrateur. hivernant. Espï¿½ce protï¿½gï¿½e</statut>
 
-Tadorne de Belon
+</espece>
 
-Ordre : Anseriformes
-Famille : Anatidés
- 
-Nom scientifique : Tadorna tadorna
-Synonymes : ardent, raga, ringand, ringant, Bergeend (Neerl), Brandente (Alle), Volpoca (Ital), Tarro blanco (Espa), Common Shelduck (Angl), Gravand (Sued), Peganka (Russ)
-Tadorne de Belon
-Biométrie :
-Taille : 58 à 71 cm
-Envergure : 110 à 113 cm
-Poids : 1100 à 1400 g
-Longévité : 16 ans
-
-Distribution : Espèce présente en France à l'état sauvage.
-Statut : nicheur. migrateur. hivernant. Espèce protégée
-
-
-
+</oiseaux>

@@ -16,5 +16,3 @@
 <!ELEMENT longevite (#PCDATA)>
 <!ELEMENT distribution (#PCDATA)>
 <!ELEMENT statut (#PCDATA)>
-
-
